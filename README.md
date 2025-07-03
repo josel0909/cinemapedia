@@ -1,3 +1,6 @@
+1. Copiar el archivo .env.example y crear un archivo .env
+2. Poner las key que solicita
+
 # cinemapedia
 
 A new Flutter project.
